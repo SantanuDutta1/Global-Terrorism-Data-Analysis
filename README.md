@@ -1,6 +1,6 @@
 # Global Terrorism Database Analysis
 
-Welcome to the Global Terrorism Database (GTD) Analysis project! 🌍🔍
+Welcome to the Global Terrorism Database Analysis project! 🌍🔍
 
 ## Introduction
 The GTD is an open-source database covering terrorist attacks worldwide from 1970 to 2017. With over 180,000 attacks, it's a comprehensive resource maintained by researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland.
@@ -38,3 +38,9 @@ The GTD is an open-source database covering terrorist attacks worldwide from 197
 
 ## Project Link
 [Global Terrorism Analysis By Samarpan Das](https://github.com/SantanuDutta1/Global-Terrorism-Data-Analysis)
+
+## Authors
+
+- [@Santanudutta1](https://github.com/SantanuDutta1)
+
+Santanu Dutta - Data Analyst - Santanu Data - All work
