@@ -5,7 +5,7 @@ Welcome to the Global Terrorism Database (GTD) Analysis project! 🌍🔍
 ## Introduction
 The GTD is an open-source database covering terrorist attacks worldwide from 1970 to 2017. With over 180,000 attacks, it's a comprehensive resource maintained by researchers at the National Consortium for the Study of Terrorism and Responses to Terrorism (START), headquartered at the University of Maryland.
 <p align="center">
-  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+  <img width="600" height="350" src="Global Terrorism EDA/96670ti1.jpg">
 </p>
 
 ## Characteristics of the Database
