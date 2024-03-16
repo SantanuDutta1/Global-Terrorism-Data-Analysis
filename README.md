@@ -14,7 +14,7 @@ The GTD is an open-source database covering terrorist attacks worldwide from 197
 - Includes systematic data on domestic and international incidents
 - Maintained by researchers at START
 <p align="center">
-  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+  <img width="600" height="350" src="Global Terrorism EDA/download.png">
 </p>
 
 ## Project Goals
