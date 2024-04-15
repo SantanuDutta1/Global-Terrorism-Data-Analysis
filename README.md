@@ -36,7 +36,7 @@ The GTD is an open-source database covering terrorist attacks worldwide from 197
 [Download GTD Dataset](https://www.kaggle.com/datasets/START-UMD/gtd)
 
 ## Project Link
-[Global Terrorism Analysis By Samarpan Das](https://github.com/SantanuDutta1/Global-Terrorism-Data-Analysis)
+[Global Terrorism Analysis By Santanu Dutta](https://github.com/SantanuDutta1/Global-Terrorism-Data-Analysis)
 
 ## Authors
 
